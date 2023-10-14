@@ -33,7 +33,7 @@ export const TitleHighlight = styled.h3`
 `
 
 export const Column = styled.div`
-    flex:${({flex}) => flex};
+    flex:${({ flex }) => flex};
     padding-right: 24px;
 
 `
