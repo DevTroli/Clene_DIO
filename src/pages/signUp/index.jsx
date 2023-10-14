@@ -10,7 +10,7 @@ import { useForm } from "react-hook-form";
 
 import { Container, Title, Column, TitleLogin, SubtitleLogin, JaTenhoContaText, FazerLoginText, Row, Wrapper, MsgAceitoPoliticas } from './styles'
 
-const SingUp = () => {
+const SignUp = () => {
 
     const navigate = useNavigate()
 
@@ -76,4 +76,4 @@ const SingUp = () => {
     </>)
 }
 
-export { SingUp }
+export { SignUp }
